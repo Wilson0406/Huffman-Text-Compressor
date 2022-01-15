@@ -1,0 +1,3 @@
+
+Size of compressed Text : 70.75 bytes
+Compression ratio achieved = 28.54%
